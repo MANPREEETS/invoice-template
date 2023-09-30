@@ -1,0 +1,11 @@
+.tables {
+    display: flex;
+}
+
+.address {
+    width: 70%;
+}
+
+.details {
+    width: 30%;
+}
